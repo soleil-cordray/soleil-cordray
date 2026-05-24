@@ -37,5 +37,5 @@ The problems I'm drawn to live in the space between hard technical work and real
 ## 💬 Let's Connect! 
 
 🔗 [LinkedIn](https://www.linkedin.com/in/soleil-cordray/) · 
-🌐 [solcor.dev](https://solcor.dev) · 
+🌐 [solcor.dev](https://solcor.dev) (WIP) · 
 ✉️ hi@solcor.dev
