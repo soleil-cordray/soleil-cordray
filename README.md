@@ -1,4 +1,4 @@
-# Hi, I'm Sol!
+# 👋🏻 Hi, I'm Sol!
 
 I build intelligent, human-centered systems at the intersection of technical depth and positive impact.
 
